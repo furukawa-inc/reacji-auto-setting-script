@@ -1,0 +1,14 @@
+{
+  "name": "slack-emoji-import",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "t-kusakabe <ttmac0704@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc",
+    "watch": "tsc --watch"
+  },
+  "devDependencies": {
+    "typescript": "3.1.1"
+  }
+}
